@@ -1,9 +1,8 @@
-Flight No,Origin,Destination,Date,Time,First Name,Last Name,Sex, SeatNo, DateofBirth, DoBValidation, PersonValidation, LuggageValidation, NameValidation, BoardingPassValidation
-UA-234,San Francisco, Chicago, 20 April 2022, 10:00, Avkash, Chauhan, M,20A, 01 January 1990,False,False,False,False,False
-UA-234,San Francisco, Chicago, 20 April 2022, 10:00, James, Webb, M,1A, 15 December 1970,False,False,False,False,False
-UA-234,San Francisco, Chicago, 20 April 2022, 10:00, Jackson, James, M,25B, 12 October 1956,False,False,False,False,False
-UA-234,San Francisco, Chicago, 20 April 2022, 10:00, Libby, Herold, F,3D, 10 October 1996,False,False,False,False,False
-KLM-000,Amsterdam, San Francisco, 17 May 2022, 10:00, Nayana, Holanda de Abreu, F,A21, 05 December 1990,False,False,False,False,False
-
-
-
+Carrier,Flight No,Class,Origin,Destination,Date,Time,First Name,Last Name,Sex,SeatNo,Baggage,Ticket No.,DateofBirth,DoBValidation,PersonValidation,LuggageValidation,NameValidation,BoardingPassValidation
+UA,234,Economy,San Francisco,Chicago,20 April 2022,10:00 AM PST,Sameer,Kumar,M,E24,YES,34236746,25 January 1990,False,False,False,False,False
+UA,234,Economy,San Francisco,Chicago,20 April 2022,10:00 AM PST,Radha,S. Kumar,F,34B,YES,34236747,03 May 1994,False,False,False,False,False
+UA,234,Business,San Francisco,Chicago,20 April 2022,10:00 AM PST,Avkash,Chauhan,M,20A,NO,34236747,01 January 1990,False,False,False,False,False
+UA,234,Business,San Francisco,Chicago,20 April 2022,10:00 AM PST,James,Webb,M,1A,YES,34236747,15 December 1970,False,False,False,False,False
+UA,234,Business,San Francisco,Chicago,20 April 2022,10:00 AM PST,Jackson,James,M,25B,NO,34236747,12 October 1956,False,False,False,False,False
+UA,234,Economy,San Francisco,Chicago,20 April 2022,10:00 AM PST,Libby,Herold,F,3D,YES,34236747,10 October 1996,False,False,False,False,False
+KLM,000,Economy,Amsterdam,San Francisco,17 May 2022,10:00 AM PST,Nayana,Holanda de Abreu,F,A21,YES,34236747,05 December 1990,False,False,False,False,False
